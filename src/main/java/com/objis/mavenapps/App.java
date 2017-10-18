@@ -6,7 +6,8 @@ package com.objis.mavenapps;
  */
 public class App 
 {
-    public static void main( String[] args )
+    //toto
+	public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
     }
